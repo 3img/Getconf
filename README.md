@@ -24,6 +24,6 @@ if err != nil {
   return
 }
 
-fmt.Println("LISTEN.PORT")
+fmt.Println(c.Get("LISTEN.PORT"))
 ```
 
