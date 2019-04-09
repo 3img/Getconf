@@ -3,6 +3,7 @@ get conf from local file
 
 > If you has file like this format:
 ```
+;Annotation here, start from ;
 [MYSQL]
 DBNAME = comments
 DBHOST = 10.10.0.211
